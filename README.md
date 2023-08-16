@@ -71,7 +71,7 @@ Welcome to **FPTs2l**, an innovative application designed to facilitate seamless
       ```
 
   2. Download the Models:
-    Download the models folder from the following [link](https://drive.google.com/drive/folders/1DFZ7nF60rF4tt1urFSbvffG-iWUnuxTW?usp=sharing) and move to **./gui/**
+    Download the models folder from the following [link](https://drive.google.com/drive/folders/14B2RRTBbNb2WiGoJJH37tfm529-DLZcN?usp=sharing) and move to **./gui/**
 
   3. Run the Application:
     Once the dependencies are installed, you can run the application using the following command:
